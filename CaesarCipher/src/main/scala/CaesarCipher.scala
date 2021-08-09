@@ -1,4 +1,3 @@
-import scala.collection.immutable.Nil.indexOf
 import scala.io.StdIn.{readInt, readLine}
 
 object CaesarCipher extends App{
