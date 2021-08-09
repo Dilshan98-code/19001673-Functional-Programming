@@ -13,10 +13,10 @@ object Q5 extends App{
   def evenAdd(n:Int):Int =n match {
     case n if n < 1 => 0
     case n if isEven(n) =>n-2 + evenAdd(n - 2)
-    case n if !isEven(n) => (n - 1) + evenAdd(n - 2)
+    case n if !isEven(n) => (n - 1) + evenAdd(n - 1)
   }
   print("Enter the number:")
-  var num: Int = readInt().abs
+  var num: Int = readInt()
   println(evenAdd(num))
 
 }
