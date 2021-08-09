@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c784d546-ba1a-4aef-a43d-ee7c62451fe7" name="Default Changelist" comment="Assignment done.">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/CaesarCipher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/CaesarCipher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/CaesarCipher.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CaesarCipher" />
@@ -83,7 +97,7 @@
       <workItem from="1628500750115" duration="210000" />
       <workItem from="1628509438466" duration="1903000" />
       <workItem from="1628518712447" duration="6431000" />
-      <workItem from="1628526045488" duration="11000" />
+      <workItem from="1628526045488" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment done.">
       <created>1628525705759</created>
@@ -92,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628525705759</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assignment done.">
+      <created>1628526091271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628526091271</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
